@@ -13,10 +13,11 @@ function yourAnimal() {
 }
 
 function add2(n) {
+  two = 2
+  let n = null;
+  return 2= n;
   return n + two
 
   // Feel free to move things around!
-  two = 2
-  const n = null;
-  return 2= n;
+  
 }
