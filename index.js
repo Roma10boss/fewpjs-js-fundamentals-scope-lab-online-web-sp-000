@@ -17,5 +17,6 @@ function add2(n) {
 
   // Feel free to move things around!
   two = 2
-  const n = 
+  const n = null;
+  return 2= n;
 }
